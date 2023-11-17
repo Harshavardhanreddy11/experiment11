@@ -15,7 +15,7 @@ Step 7: Save and run the application.
 ```
 ## PROGRAM:
 ```
-Developed by:charan
+Developed by:Harsha
 Registeration Number : 212221040184
 ```
 ## activity_main.xml
